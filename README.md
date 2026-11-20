@@ -1,16 +1,14 @@
-## Hi there 👋
+# Ifeoluwa Adediran
 
-<!--
-**Ifeoluwa-Adediran/Ifeoluwa-Adediran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer in Georgia, finishing an AAS in Computer Programming at Gwinnett Technical College (May 2027). I build full-stack web applications and like understanding systems down to the hardware.
 
-Here are some ideas to get you started:
+## Currently building
+- **Car ordering platform**: order a car for pickup or delivery, or schedule a test drive. React frontend, backend API, SQL database, hosted on AWS. *(in progress)*
+- **Investing education app**: interactive financial-math tools, live market data, and an AI study assistant. *(in progress)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Languages:** Java · C++ · JavaScript · TypeScript · SQL · HTML/CSS
+**Learning now:** React · Node.js · Spring Boot · AWS
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ifeoluwa-adediran-266481306/)
