@@ -1,6 +1,6 @@
 # Ifeoluwa Adediran
 
-Software developer in Georgia, finishing an AAS in Computer Programming at Gwinnett Technical College (May 2027). I build full-stack web applications and like understanding systems down to the backend.
+Software developer in Georgia, finishing an AAS in Computer Programming at Gwinnett Technical College (May 2027). I build full-stack web applications and appreciate understanding systems down to the backend.
 
 ## Currently building
 - **Car ordering platform**: order a car for pickup or delivery, or schedule a test drive. React frontend, backend API, SQL database, hosted on AWS. *(in progress)*
